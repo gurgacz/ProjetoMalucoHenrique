@@ -1,3 +1,4 @@
+<html>
 <?
 
 echo("olá Henrique o melhor professor do mundo !"); 
@@ -33,3 +34,4 @@ function fibonacci(int $numTermos): void
 }
 
 ?>
+</html>
